@@ -13,15 +13,15 @@ BEGIN
   BEGIN
     BLOCK "080904b0"
     BEGIN
-      VALUE "CompanyName", "shrieeiee"
+      VALUE "CompanyName", "somethingthatdoesntdoxme"
       VALUE "FileDescription", "Slime Push - slime block puzzle game"
       VALUE "FileVersion", "1.2.0.0"
       VALUE "InternalName", "SlimePush"
-      VALUE "LegalCopyright", "Copyright (C) 2026 shrieeiee"
+      VALUE "LegalCopyright", "Copyright (C) 2026 somethingthatdoesntdoxme"
       VALUE "OriginalFilename", "SlimePush.exe"
       VALUE "ProductName", "Slime Push"
       VALUE "ProductVersion", "1.2.0.0"
-      VALUE "Comments", "Open source: https://github.com/shrieeiee/Slime-push"
+      VALUE "Comments", "Open source: https://github.com/somethingthatdoesntdoxme/Slime-push"
     END
   END
   BLOCK "VarFileInfo"

@@ -8,7 +8,7 @@ Any mix of Steam Decks and Windows PCs on the same network find each other autom
 
 ## Download
 
-Grab the latest files from the [Releases page](https://github.com/shrieeiee/Slime-push/releases):
+Grab the latest files from the [Releases page](https://github.com/somethingthatdoesntdoxme/Slime-push/releases):
 
 - `SlimePush-linux-steamdeck.tar.gz` for Steam Deck (or any x86_64 Linux)
 - `SlimePush-windows.zip` for Windows 10/11 (64-bit)
